@@ -1,3 +1,3 @@
 #! /bin/bash
-dnf install nginx
+apt install nginx
 systemctl start --now nginx
